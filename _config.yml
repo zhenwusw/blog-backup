@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://zhenwusw.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: TheGarden
+subtitle: Tech, Life, Thinking
+author: zhenwusw
 simple_search: http://google.com/search
 description:
 
@@ -90,11 +90,11 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: the-garden
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: "UA-42654938-1"
 
 # Facebook Like
 facebook_like: false
