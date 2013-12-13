@@ -1,0 +1,35 @@
+---
+layout: post
+title: "elixir01"
+date: 2013-10-28 21:05
+comments: true
+categories:
+---
+
+
+
+# xxxx
+
+  * how receive works
+  *
+
+
+
+# Install and run dynamo
+
+## Walk through
+
+* Dynamic reload
+
+ > Changes done in the web directory are picked up without a need to reload the server.
+
+
+* Routers
+
+ ** `use Dynamo.Router`
+
+ ** ApplicationRouter as main entry point
+
+ ** Each route is compiled down to a function clause, making route matching extremely fast and also allows the use of guard constraints:
+
+ **
